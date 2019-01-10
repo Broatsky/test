@@ -1,0 +1,26 @@
+/* CSS Document */
+
+h3 {
+	font-size: 60px;
+	text-align: center;
+	color: #3B005E;
+}
+
+h4 {
+	font-size: 30px;
+	text-align: center;
+	color: #3B005E;
+}
+
+p {
+	color: #BD3AF7;
+	text-align: center;
+}
+
+td {
+	color: #A200F5;
+}
+
+canvas {
+	background-color: black;
+}
